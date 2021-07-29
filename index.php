@@ -5,7 +5,7 @@
 	<!--Aplicar depois as mata tags-->
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -35,7 +35,7 @@
 	<section class="main">
 		<div class="center">
 			<div class="img-pessoas">
-				<img src="img1.png"/>
+				<img src="images/img1.png"/>
 			</div><!--img-pessoas-->
 
 			<div class="abrir-conta">
